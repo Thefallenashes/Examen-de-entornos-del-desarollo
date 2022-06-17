@@ -1,0 +1,24 @@
+namespace PruebaConstructor
+{
+ class Alumno
+ {
+ private string nombre;
+ private int edad;
+ public Alumno()
+ {
+ //
+ }
+ public void Imprimir()
+ {
+ //
+ }
+ public void EsMayorEdad()
+ {
+ //
+ }
+ static void Main(string[] args)
+ {
+ //
+ }
+ }
+}
